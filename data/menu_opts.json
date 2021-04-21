@@ -1,0 +1,52 @@
+{
+    "nombreApp" : "Componentes",
+    "rutas" : [
+        {
+            "ruta" : "agroforestales",
+            "icon" : "local_florist",
+            "texto": "Ciencias agroforestales"
+        },
+        {
+            "ruta" : "sistemas",
+            "icon" : "flash_on",
+            "texto": "Sistemas energéticos"
+        },
+        {
+            "ruta" : "datos",
+            "icon" : "margin",
+            "texto": "Ciencias de Datos"
+        },
+        {
+            "ruta" : "artificial",
+            "icon" : "record_voice_over",
+            "texto": "Inteligencia artificial"
+        },
+        {
+            "ruta" : "negocios",
+            "icon" : "store_mall_directory",
+            "texto": "Negocios Digitales"
+        },
+        {
+            "ruta" : "psicologia",
+            "icon" : "psychology",
+            "texto": "Psicología"
+        },
+        {
+            "ruta" : "administracion",
+            "icon" : "pending_actions",
+            "texto": "Administración"
+        },   {
+            "ruta" : "seguridad",
+            "icon" : "vpn_lock",
+            "texto": "Seguridad de Datos"
+        },   {
+            "ruta" : "robotica",
+            "icon" : "qr_code",
+            "texto": "Ingeniería en Robótica"
+        },   {
+            "ruta" : "aeronautica",
+            "icon" : "airplanemode_active",
+            "texto": "Ingeniería en Aeronáutica   "
+        }
+    ]
+}
